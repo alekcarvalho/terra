@@ -1,0 +1,287 @@
+/* ==========================================================================
+   Fonts
+   ========================================================================== */
+
+@font-face {
+    font-family: 'Noto-Bold';
+    src: url('/static/fonts/noto/NotoSerif-Bold.ttf') format('ttf');
+}
+
+
+/* ==========================================================================
+   Helper classes
+   ========================================================================== */
+.ir {
+    background-color: transparent;
+    border: 0;
+    overflow: hidden;
+    *text-indent: -9999px;
+}
+
+.ir:before {
+    content: "";
+    display: block;
+    width: 0;
+    height: 150%;
+}
+
+.hide {
+    display: none;
+}
+
+.display-block{
+  display: block;
+}
+
+.display-flex{
+  display: flex;
+}
+
+.hidden {
+    display: none!important;
+}
+
+.visuallyhidden {
+    border: 0;
+    clip: rect(0 0 0 0);
+    height: 1px;
+    margin: -1px;
+    overflow: hidden;
+    padding: 0;
+    position: absolute;
+    width: 1px;
+}
+
+.visuallyhidden.focusable:active,
+.visuallyhidden.focusable:focus {
+    clip: auto;
+    height: auto;
+    margin: 0;
+    overflow: visible;
+    position: static;
+    width: auto;
+}
+
+.invisible {
+    visibility: hidden;
+}
+
+.clearfix:after,
+.clearfix:before {
+    content: " ";
+    display: table;
+}
+
+.clearfix:after {
+    clear: both;
+}
+
+.disabled {
+    opacity: 0.6;
+}
+
+.disabled:hover {
+    opacity: 0.6!important;
+}
+
+.clearfix {
+    *zoom: 1;
+}
+
+.text-centered {
+    text-align: center!important;
+}
+
+.col-centered {
+    float: none!important;
+    margin: 0 auto !important;
+}
+
+.avatar-image {
+    width: 42px;
+    height: 42px;
+    border-radius: 23px;
+    margin-right: 5px;
+}
+
+.box {
+    position: relative;
+    background: #fff;
+    box-shadow: 0 1px 1px rgba(0, 0, 0, .15);
+}
+
+.center-coluna {
+    width: 100%!important;
+    text-align: center!important;
+}
+
+.full-width {
+    width: 100%;
+}
+
+.text-bold {
+    font-weight: bold!important;
+}
+
+.mb-10 {
+    margin-bottom: 10px !important;
+}
+
+.mb-15 {
+    margin-bottom: 15px !important;
+}
+
+.mb-20 {
+    margin-bottom: 20px !important;
+}
+
+.mb-25 {
+    margin-bottom: 25px !important;
+}
+
+.mb-30 {
+    margin-bottom: 30px !important;
+}
+
+.mb-35 {
+    margin-bottom: 35px !important;
+}
+
+.mb-40 {
+    margin-bottom: 40px !important;
+}
+
+.mb-45 {
+    margin-bottom: 45px !important;
+}
+
+.mb-50 {
+    margin-bottom: 50px !important;
+}
+
+.mt-10 {
+    margin-top: 10px !important;
+}
+
+.mt-15 {
+    margin-top: 15px !important;
+}
+
+.mt-20 {
+    margin-top: 20px !important;
+}
+
+.mt-25 {
+    margin-top: 25px !important;
+}
+
+.mt-30 {
+    margin-top: 30px !important;
+}
+
+.mt-35 {
+    margin-top: 35px !important;
+}
+
+.mt-40 {
+    margin-top: 40px !important;
+}
+
+.mt-45 {
+    margin-top: 45px !important;
+}
+
+.mt-50 {
+    margin-top: 50px !important;
+}
+
+.pb-10 {
+    padding-bottom: 10px !important;
+}
+
+.pb-20 {
+    padding-bottom: 20px !important;
+}
+
+.pb-30 {
+    padding-bottom: 30px !important;
+}
+
+.pb-40 {
+    padding-bottom: 40px !important;
+}
+
+.pb-50 {
+    padding-bottom: 50px !important;
+}
+
+.ttu {
+    text-transform: uppercase!important;
+}
+
+.overflow {
+    overflow: visible!important;
+}
+
+.overflow-hidden {
+    overflow: hidden!important;
+}
+.no-list{
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+.no-margin{
+  margin: 0;
+}
+.no-padding{
+  padding: 0;
+}
+.no-wrap{
+  margin: 0;
+  padding: 0;
+}
+
+//Placeholder
+input:focus::-webkit-input-placeholder {
+  color: transparent!important;
+}
+
+input:focus:-moz-placeholder {
+  color: transparent!important;
+}
+/* FF 4-18 */
+input:focus::-moz-placeholder {
+  color: transparent!important;
+}
+/* FF 19+ */
+input:focus:-ms-input-placeholder {
+  color: transparent!important;
+}
+/* IE 10+ */
+.input:focus::-webkit-input-placeholder {
+  color: transparent!important;
+}
+
+.input:focus:-moz-placeholder {
+  color: transparent!important;
+}
+/* FF 4-18 */
+.input:focus::-moz-placeholder {
+  color: transparent!important;
+}
+/* FF 19+ */
+.input:focus:-ms-input-placeholder {
+  color: transparent!important;
+}
+
+//IOS
+html.ios {
+  overflow-x: hidden;
+  -webkit-overflow-scrolling: touch;
+}
+
+html.ios,
+html.ios body {
+  height: initial !important;
+}

@@ -1,0 +1,67 @@
+[
+    {
+        "imagemPrincipal": "http://cdn-image.travelandleisure.com/sites/default/files/styles/1600x1000/public/1473173667/machu-PICCHU0916.jpg?itok=DTZZvAZT",
+        "tituloPrincipal":{
+            "titulo": "Peru",
+            "subtitulo": "UM PONTO DE PARTIDA, E NÃO CHEAGADA.",
+            "intro": "A maneira como o escritor Mario Vargas Llosa descreve a cozinha peruana foi a inspiração para este roteiro, que te leva a Lima e sua cultura gastronômica, e segue rumo ao ápice das civilizações pré-hispânicas em Machu Picchu."
+        },
+        "primeiraSecao":{
+            "titulo": "LIMA",
+            "subtitulo": "A CAPITAL",
+            "imagem": "https://media-cdn.tripadvisor.com/media/photo-s/06/f1/43/69/plaza-de-armas-plaza.jpg",
+            "primeiroParagrafo": "No passado, era apenas uma escala para se chegar a Machu Picchu. Lima não cansa de surpreender, e prova que é muito mais que um rostinho bonito no caminho à cidade perdida dos Incas.",            
+            "segundoParagrafo": "A cidade une a influência espanhola e moura, predominantes na arquitetura, com a cultura africana e asiática para criar receitas que agradam viajantes mais clássicos e surpreendem experientes foodies.",            
+            "icone": "Prove ícones da gastronomia local ou se aventures pela criatividade de chefs peruanos",
+            "primeiraSubSecao": {
+               "titulo": "LA MAR",
+               "imagem": "http://www.lamarcebicheria.com/sites/default/files/lamar5_0.jpg",
+               "quote": "Nunca está vazio... Nunca ficou vazio",
+               "paragrafo": "É o que dizem os garçons se você pergunta o melhor horário. Não à toa, mais de 100kg de limões são espremidos à mão por dia para se fazer os mais deliciosos ceviches e tiraditos de Lima, apenas com o que o mar oferece no dia. Portanto, chegue cedo.",
+               "icone": "Atrações não faltam em Lima, mas se o tempo for curto, não deixe de conferir estas 4."
+            },
+            "segundaSubSecao":{
+                "titulo": "CENTRO HISTÓRICO",
+                "imagem": "http://www.diariodeabordoblog.com/wp-content/uploads/2013/02/Lima-centro-historico-07.jpg",
+                "primeiroParagrafo": "Patrimônio da Humanidade da UNESCO, é a porta para o microcosmo que reúne a grande praça, a catedral de Lima, museus e conventos. Por estas ruas se entrelaçam memórias da fundação da cidade até episódios da história recente do país. Um mergulho na arquitetura neoclássica espanhola.",
+                "segundoParagrafo": "Lima fica a 1 hora de vôo de Cusco, e a oneworld oferece todo suporte para que você chegue ao seu destino. De ônibus, o trajeto sinuoso pode demorar 24h para ser feito.",
+                "info": "Agora que você já conhece um pouco da capital, que tal continuar a viagem?"
+            }        
+        },
+        "segundaSecao":{
+            "titulo": "Cusco",
+            "subtitulo": "Magia e Glória",
+            "imagem": "https://media1.popsugar-assets.com/files/thumbor/3LzxiY_wMDOhcGKWPF5dhZvCiYc/fit-in/1024x1024/filters:format_auto-!!-:strip_icc-!!-/2017/06/20/774/n/43374309/f4ddb6a459495cb4a0e691.36802414_edit_img_cover_file_18804669_1497976215/i/Things-Do-Cusco-Peru.jpg",
+            "primeiroParagrafo": "Cusco é a maior cidade próxima a Machu Picchu. Antiga capital do Tawantinsuyo, mistura mística, esplendor e glória em cada canto. Leve um chapéu, pois mesmo com nuvens, o sol castiga.",            
+            "segundoParagrafo": "A cidade une a influência espanhola e moura, predominantes na arquitetura, com a cultura africana e asiática para criar receitas que agradam viajantes mais clássicos e surpreendem experientes foodies.",            
+            "icone": "Para evitar as 'armadilhas para turista', separamos restaurantes para você se aventurar sem medo",
+            "primeiraSubSecao": {
+               "titulo": "Pachapapa",
+               "imagem": "http://inboundperu.com/en/wp-content/uploads/2015/10/pachapapa4.jpg",
+               "paragrafo": "Alpaca e lhama são pratos típicos, e têm tratamento especial em um ambiente bonito no bairro boêmio de San Blas. Delicioso, mas não para paladares pouco inovadores.",
+               "icone": "Conheça o melhor da cidade de uma maneira prática"
+            },
+            "segundaSubSecao":{
+                "titulo": "Boleto Turístico de Cusco",
+                "imagem": "http://res.cloudinary.com/gringom/image/upload/v1477603682/qorikancha-cusco_pu7ycl.jpg",
+                "primeiroParagrafo": "Esta espécie de citypass oferece acesso a 16 atrações, entre sítios arqueológicos, igrejas e museus. Pode ser adquirido tanto no formato geral - para todos os lugares - ou parcial, cobrindo três tipos de circuito.",
+                "segundoParagrafo": "Depois de renovar energias em Cusco, siga de trem para Águas Calientes. A viagem de 3 a 4 horas é bastante agradável. Passe a noite e saia bem cedo rumo a Machu Picchu, que fica a apenas 20 minutos de ônibus."
+            }        
+        },
+        "terceiraSecao":{
+            "titulo": "Machu Picchu",
+            "subtitulo": "Na Cidade Perdida dos Incas",
+            "imagem": "https://www.rei.com/adventures/assets/adventures/images/trip/core/latinamerica/ix2_hero",
+            "primeiroParagrafo": "Seja em busca de espiritualidade ou conhecer um marco de uma civilização antiga, Machu Picchu atrai de turistas curiosos a místicos. Estima-se que a cidade foi construída no séc. 15. Após escavações em 1911, tornou-se patrimônio da humanidade. Para visitá-la, é necessário adquirir ingressos antecipadamente, e filtro solar é imprescindível, já que não há sombras para se proteger.",            
+            "segundoParagrafo": "Reserve de 3 a 5 horas para o passeio e espere muitos degraus. Faça no seu ritmo, pois o esforço vale a pena. Tours guiados destacam os pontos principais e mostram os melhores spots para fotografar.",            
+            "primeiraSubSecao": {
+               "titulo": "Huayna Picchue",
+               "imagem": "https://static.independent.co.uk/s3fs-public/thumbnails/image/2017/06/27/11/machu-picchu.jpg",
+               "primeiroParagrafo": "Estas são as principais montanhas na cidadela. A subida não é obrigatória, mas se estiver com o fôlego em dia, arrisque-se por lá. Para se aventurar, compre o ingresso à parte, antecipadamente.",
+               "segundoParagrafo": "A melhor época para visitar a cidade é de abril a setembro. Evite julho e agosto, quando fica abarrotada de turistas. E não vá de jeito nenhum em janeiro e fevereiro, estação de chuvas em que a atração pode fechar.",
+               "terceiroParagrafo": "A oneworld serve mais de 950 destinos em 150 países, oferecendo suporte global e tarifas diferenciadas de acordo com as necessidades de cada viajante. Se você já está planejando sua próxima viagem, confira nossas sugestões e dicas."
+            }       
+        },
+        "banner":"http://everydayayurveda.org/wp-content/uploads/2014/03/Your-Superhuman-Potential-Banner-700x120.png"
+    }
+]
